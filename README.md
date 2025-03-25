@@ -3,30 +3,52 @@
 [![Help](https://img.shields.io/badge/master-help-875A7B.svg?style=flat&colorA=8F8F8F)](https://www.odoo.com/forum/help-1)
 [![Nightly Builds](https://img.shields.io/badge/master-nightly-875A7B.svg?style=flat&colorA=8F8F8F)](https://nightly.odoo.com/)
 
+
+# Odoo Fork
+
+Este é um fork do repositório oficial do Odoo, um conjunto de aplicativos de negócios baseados em web de código aberto.
+
 Odoo
 ----
 
-Odoo is a suite of web based open source business apps.
+Odoo é um conjunto de aplicativos empresariais de código aberto baseados na web.
 
-The main Odoo Apps include an <a href="https://www.odoo.com/page/crm">Open Source CRM</a>,
-<a href="https://www.odoo.com/app/website">Website Builder</a>,
+Os principais aplicativos Odoo incluem: <a href="https://www.odoo.com/page/crm">CRM de código aberto</a>,
+<a href="https://www.odoo.com/app/website">Construtor de Sites</a>,
 <a href="https://www.odoo.com/app/ecommerce">eCommerce</a>,
-<a href="https://www.odoo.com/app/inventory">Warehouse Management</a>,
-<a href="https://www.odoo.com/app/project">Project Management</a>,
-<a href="https://www.odoo.com/app/accounting">Billing &amp; Accounting</a>,
-<a href="https://www.odoo.com/app/point-of-sale-shop">Point of Sale</a>,
-<a href="https://www.odoo.com/app/employees">Human Resources</a>,
-<a href="https://www.odoo.com/app/social-marketing">Marketing</a>,
-<a href="https://www.odoo.com/app/manufacturing">Manufacturing</a>,
-<a href="https://www.odoo.com/">...</a>
+<a href="https://www.odoo.com/app/inventory">Gerenciamento de Depósito</a>,
+<a href="https://www.odoo.com/app/project">Gerenciamento de Projetos</a>,
+<a href="https://www.odoo.com/app/accounting">Faturamento e Contabilidade</a>,
+<a href="https://www.odoo.com/app/point-of-sale-shop">Ponto de Vendas</a>,
+<a href="https://www.odoo.com/app/employees">Recursos Humanos</a>,
+<a href="https://www.odoo.com/app/social-marketing">Marketing Social</a>,
+<a href="https://www.odoo.com/app/manufacturing">Gestão da Manufatura</a>,
+<a href="https://www.odoo.com/">e outros...</a>
 
-Odoo Apps can be used as stand-alone applications, but they also integrate seamlessly so you get
-a full-featured <a href="https://www.odoo.com">Open Source ERP</a> when you install several Apps.
+Os aplicativos Odoo podem ser usados ​​como aplicativos independentes, mas também se integram perfeitamente para que você tenha um <a href="https://www.odoo.com">ERP de código aberto completo</a> ao instalar vários aplicativos.
 
-Getting started with Odoo
--------------------------
+Introdução ao Odoo
+-------------------
 
-For a standard installation please follow the <a href="https://www.odoo.com/documentation/master/administration/install/install.html">Setup instructions</a>
-from the documentation.
+Para uma instalação padrão, siga as <a href="https://www.odoo.com/documentation/master/administration/install/install.html">instruções de configuração</a> da documentação.
 
-To learn the software, we recommend the <a href="https://www.odoo.com/slides">Odoo eLearning</a>, or <a href="https://www.odoo.com/page/scale-up-business-game">Scale-up</a>, the <a href="https://www.odoo.com/page/scale-up-business-game">business game</a>. Developers can start with <a href="https://www.odoo.com/documentation/master/developer/howtos.html">the developer tutorials</a>
+Para aprender o software, recomendamos o <a href="https://www.odoo.com/slides">Odoo eLearning</a>, ou o <a href="https://www.odoo.com/page/scale-up-business-game">Scale-up, o jogo de negócios</a>. Os desenvolvedores podem começar com os <a href="https://www.odoo.com/documentation/master/developer/howtos.html">tutoriais do desenvolvedor</a>.
+
+-------
+## Créditos e Licença
+
+Este repositório é um fork do [Odoo](https://github.com/odoo/odoo), desenvolvido e mantido pela [Odoo S.A.](https://www.odoo.com/).
+
+### Licença
+
+O Odoo é distribuído sob a licença LGPL-3. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE) no repositório original.
+
+### Atribuição
+
+Este fork é baseado no repositório oficial do Odoo:
+- Repositório original: [odoo/odoo](https://github.com/odoo/odoo)
+- Website oficial: [www.odoo.com](https://www.odoo.com)
+
+## Disclaimer
+
+Este é um fork não oficial do Odoo. Para suporte oficial e atualizações, visite o [site oficial do Odoo](https://www.odoo.com/). 
